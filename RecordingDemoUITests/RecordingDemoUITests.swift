@@ -2,8 +2,8 @@
 //  RecordingDemoUITests.swift
 //  RecordingDemoUITests
 //
-//  Created by LNT-21 on 28/04/16.
-//  Copyright © 2016 LNT-21. All rights reserved.
+//  Created by Ankit Solanki on 28/04/16.
+//  Copyright © 2016 Ankit Solanki. All rights reserved.
 //
 
 import XCTest
